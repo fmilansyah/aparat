@@ -4,7 +4,7 @@ APARAT adalah aplikasi arsip surat berbasis web untuk mengelola surat masuk, sur
 
 ## Persyaratan Server
 
-- Versi PHP 5.6 atau yang lebih
+- Versi PHP 5.6 atau yang lebih baru
 - Database MySQL
 
 ## Instalasi
