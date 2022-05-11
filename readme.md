@@ -24,4 +24,4 @@ APARAT adalah aplikasi arsip surat berbasis web untuk mengelola surat masuk, sur
 - DataTables
 
 ## Forum
-Jika ada yang ingin didiskusikan atau ditanyakan tentang repo ini silakan sampaikan di [GitHub Discussions](https://github.com/fmilansyah/ujikom-2018/discussions)
+Jika ada yang ingin didiskusikan atau ditanyakan tentang repo ini silakan sampaikan di [GitHub Discussions](https://github.com/fmilansyah/aparat/discussions)
